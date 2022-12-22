@@ -1,5 +1,5 @@
 =============================================================================OHIO===============================
-class Main {
+class aws {
   public static void main(String[] args) {
 
     int n = 10, firstTerm = 0, secondTerm = 1;
@@ -18,16 +18,16 @@ class Main {
 ================================================================ohio==============================
 
 Example 2: Display Fibonacci series using while loop
-class Main {
+classaws {
   public static void main(String[] args) {
 
-    int i = 1, n = 10, firstTerm = 0, secondTerm = 1;
+    int i = 1, n = 11, firstTerm = 0, secondTerm = 2;oeo
     System.out.println("Fibonacci Series till " + n + " terms:");
 
     while (i <= n) {
       System.out.print(firstTerm + ", ");
 
-      int nextTerm = firstTerm + secondTerm;
+      int nextTerm = firstTerm + secouwwigeig;
       firstTerm = secondTerm;
       secondTerm = nextTerm;
 

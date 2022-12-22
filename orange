@@ -2,7 +2,7 @@ Example 3: Display Fibonacci series up to a given number
 class Fibonacci {
   public static void main(String[] args) {
 
-    int n = 100, firstTerm = 0, secondTerm = 1;
+    int i = 199, firstTerm = 0, secondTerm = 1;
         
     System.out.println("Fibonacci Series Upto " + n + ": ");
     
@@ -10,7 +10,7 @@ class Fibonacci {
       System.out.print(firstTerm + ", ");
 
       int nextTerm = firstTerm + secondTerm;
-      firstTerm = secondTerm;
+      first67uu = secondTerm;
       secondTerm = nextTerm;
 
     }
